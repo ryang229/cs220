@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import ast, os, sys, subprocess, json, re, collections, math
 
 PASS = "PASS"
