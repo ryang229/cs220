@@ -3,7 +3,14 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "metadata": {},
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
    "outputs": [],
    "source": [
     "# This line is a comment because it starts with a pound sign (#). That                                                                                                                                         \n",
@@ -23,19 +30,15 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "metadata": {},
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "2"
-      ]
-     },
-     "execution_count": 2,
-     "metadata": {},
-     "output_type": "execute_result"
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
     }
-   ],
+   },
+   "outputs": [],
    "source": [
     "#q1: what is 1+1?\n",
     "\n",
@@ -47,8 +50,26 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "metadata": {},
-   "outputs": [],
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "4"
+      ]
+     },
+     "execution_count": 3,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "#q2: what is 2+2?\n",
     "\n",
@@ -58,7 +79,14 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "metadata": {},
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
    "outputs": [
     {
      "data": {
@@ -72,88 +100,203 @@
     }
    ],
    "source": [
-    "#q3: what is the type of 220?\n",
+    "#q3: what is the type of 301?\n",
     "\n",
     "# we did this one for you too...\n",
     "\n",
-    "type(220)"
+    "type(50*13)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 5,
-   "metadata": {},
-   "outputs": [],
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "float"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
-    "#q4: what is the type of 220/4?\n",
+    "#q4: what is the type of 650/13?\n",
     "\n",
-    "type(220/4)"
+    "type(650/13)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 6,
-   "metadata": {},
-   "outputs": [],
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "int"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
-    "#q5: what is the type of 220//4?\n",
+    "#q5: what is the type of 650//13?\n",
     "\n",
-    "type(220//4)"
+    "type(650//13)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 7,
-   "metadata": {},
-   "outputs": [],
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "str"
+      ]
+     },
+     "execution_count": 7,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
-    "#q6: what is the type of \"220\"?  Note the quotes!\n",
+    "#q6: what is the type of \"301\"?  Note the quotes!\n",
     "\n",
-    "type(\"220\")"
+    "type(\"301\")"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 8,
-   "metadata": {},
-   "outputs": [],
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "str"
+      ]
+     },
+     "execution_count": 8,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
-    "#q7: what is the type of \"False\"?  Note the quotes!\n",
+    "#q7: what is the type of \"True\"?  Note the quotes!\n",
     "\n",
-    "type(\"False\")"
+    "type(\"True\")"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 9,
-   "metadata": {},
-   "outputs": [],
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "bool"
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
-    "#q8: what is the type of True?\n",
+    "#q8: what is the type of False?\n",
     "\n",
-    "type(True)"
+    "type(False)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 10,
-   "metadata": {},
-   "outputs": [],
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "bool"
+      ]
+     },
+     "execution_count": 10,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
-    "#q9: what is the type of 1000<999?\n",
+    "#q9: what is the type of 1000>999?\n",
     "\n",
-    "type(1000<999)"
+    "type(1000>999)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 11,
-   "metadata": {},
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "'20020'"
+       "301"
       ]
      },
      "execution_count": 11,
@@ -172,12 +315,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "metadata": {},
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "':):):)'"
+       "':):):):):):):):):):)'"
       ]
      },
      "execution_count": 12,
@@ -194,12 +344,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "metadata": {},
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "'6666666'"
+       "42"
       ]
      },
      "execution_count": 13,
@@ -210,27 +367,34 @@
    "source": [
     "#q12: please fix the following to get 42\n",
     "\n",
-    "6 * 7"
+    "7 * 6"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 14,
-   "metadata": {},
+   "execution_count": 1,
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "36"
+       "216"
       ]
      },
-     "execution_count": 14,
+     "execution_count": 1,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "#q13: what is the volume of a cube with side length of 6?\n",
+    "#q13: what is the volume of a cube with side length of 5?\n",
     "\n",
     "# oops, it is currently computing the area of a square (please fix)\n",
     "\n",
@@ -239,9 +403,27 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 15,
-   "metadata": {},
-   "outputs": [],
+   "execution_count": 2,
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1620"
+      ]
+     },
+     "execution_count": 2,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "#q14: you start with 20 dollars and triple your money every decade.\n",
     "# how much will you have after 4 decades?\n",
@@ -251,8 +433,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 1,
-   "metadata": {},
+   "execution_count": 16,
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
    "outputs": [
     {
      "data": {
@@ -260,7 +449,7 @@
        "False"
       ]
      },
-     "execution_count": 1,
+     "execution_count": 16,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -268,21 +457,28 @@
    "source": [
     "#q15: fix the Python logic to match the English\n",
     "\n",
-    "# In English: 220 is less than 320 and greater than 400\n",
+    "# In English: 321 is greater than 100 and less than 200\n",
     "\n",
     "# In Python:\n",
-    "220 < 320 and 220 > 400"
+    "321 > 100 and 321 < 200"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 17,
-   "metadata": {},
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "False"
+       "True"
       ]
      },
      "execution_count": 17,
@@ -293,7 +489,7 @@
    "source": [
     "#q16: change ONLY the value of x to get True for the output\n",
     "\n",
-    "x = 0\n",
+    "x = -31\n",
     "\n",
     "x < -30 and x > -40"
    ]
@@ -301,12 +497,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "metadata": {},
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "False"
+       "True"
       ]
      },
      "execution_count": 18,
@@ -317,15 +520,22 @@
    "source": [
     "#q17: change ONLY the value of x to get True for the output\n",
     "\n",
-    "x = 250\n",
+    "x = 249\n",
     "\n",
-    "(x > 200 and x < 251) and (x > 249 and x < 300)"
+    "(x > 200 and x < 250) and (x > 248 and x < 300)"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
-   "metadata": {},
+   "execution_count": 19,
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
    "outputs": [
     {
      "data": {
@@ -333,7 +543,7 @@
        "True"
       ]
      },
-     "execution_count": 2,
+     "execution_count": 19,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -341,28 +551,35 @@
    "source": [
     "#q18: what???\n",
     "\n",
-    "x = 4\n",
+    "x = 3\n",
     "\n",
-    "# fix the following logic so we get True, not 4.\n",
+    "# fix the following logic so we get True, not 3.\n",
     "# The correct logic should check whether x is either\n",
-    "# -4 or 4.  The problem is with types: to the left\n",
+    "# -3 or 3.  The problem is with types: to the left\n",
     "# of the or, we have a boolean, and to the right of\n",
     "# the or, we have an integer.  This semester, we will\n",
     "# always try to have a boolean to both the left and\n",
     "# right of logical operators such as or.\n",
     "\n",
-    "(x == -4) or (x == 4)"
+    "(x == -3) or (x == 3)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 20,
-   "metadata": {},
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "False"
+       "True"
       ]
      },
      "execution_count": 20,
@@ -373,9 +590,9 @@
    "source": [
     "#q19: we should win!\n",
     "\n",
-    "number = 36\n",
+    "number = 256\n",
     "\n",
-    "# There are three winners, with numbers 36, 323, and 325.\n",
+    "# There are three winners, with numbers 145, 99, and 256.\n",
     "# The following should output True if number is changed\n",
     "# to be any of these (but the logic is currently wrong).\n",
     "#\n",
@@ -384,18 +601,39 @@
     "# options.\n",
     "\n",
     "# Did we win?\n",
-    "number == 35 and number == 323 and number == 325"
+    "number == 146 or number == 99 or number == 256"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 21,
-   "metadata": {},
-   "outputs": [],
+   "metadata": {
+    "autoscroll": false,
+    "ein.hycell": false,
+    "ein.tags": "worksheet-0",
+    "slideshow": {
+     "slide_type": "-"
+    }
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "150.72"
+      ]
+     },
+     "execution_count": 21,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
-    "#q20: what is the volume of a cylinder with radius 4 and height 2?\n",
+    "#q20: what is the volume of a cylinder with radius 4 and height 3?\n",
     "# you may assume PI is 3.14 if you like (a close answer is good enough)\n",
-    "\n"
+    "\n",
+    "PI = 3.14\n",
+    "\n",
+    "PI * 4 ** 2 * 3"
    ]
   }
  ],
@@ -416,7 +654,8 @@
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
    "version": "3.7.3"
-  }
+  },
+  "name": "main.ipynb"
  },
  "nbformat": 4,
  "nbformat_minor": 2

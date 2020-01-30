@@ -78,7 +78,7 @@
     },
     {
       "test": 16,
-      "result": "PASS",
+      "result": "found False but expected True",
       "weight": 1
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "test": 20,
-      "result": "found 150.72 but expected 100.48",
+      "result": "PASS",
       "weight": 1
     }
   ]
