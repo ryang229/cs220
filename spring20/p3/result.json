@@ -1,5 +1,5 @@
 {
-  "score": 50.0,
+  "score": 80.0,
   "tests": [
     {
       "test": 1,
@@ -53,7 +53,7 @@
     },
     {
       "test": 11,
-      "result": "found 3.2706887566666674 but expected 7.224961934351909",
+      "result": "PASS",
       "weight": 1
     },
     {
@@ -63,27 +63,27 @@
     },
     {
       "test": 13,
-      "result": "found 0.810017933333332 but expected 4.627587380000023",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 14,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 15,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 16,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 17,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
