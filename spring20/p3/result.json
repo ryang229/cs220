@@ -1,24 +1,24 @@
 {
-  "score": 100.0,
+  "score": 50.0,
   "tests": [
     {
       "test": 1,
-      "result": "PASS",
+      "result": "found 12 but expected 9",
       "weight": 1
     },
     {
       "test": 2,
-      "result": "PASS",
+      "result": "found 55.215007260000014 but expected 77.87553504",
       "weight": 1
     },
     {
       "test": 3,
-      "result": "PASS",
+      "result": "found 26.655754419999994 but expected 28.2286218",
       "weight": 1
     },
     {
       "test": 4,
-      "result": "PASS",
+      "result": "found 68.06346877 but expected 73.24794765999998",
       "weight": 1
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "test": 6,
-      "result": "PASS",
+      "result": "found 68.06346877 but expected 49.73757877",
       "weight": 1
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "test": 10,
-      "result": "PASS",
+      "result": "found 52.51624495750001 but expected 19.152052834999996",
       "weight": 1
     },
     {
@@ -58,12 +58,12 @@
     },
     {
       "test": 12,
-      "result": "PASS",
+      "result": "found 3.2706887566666674 but expected 0.4630963200000006",
       "weight": 1
     },
     {
       "test": 13,
-      "result": "PASS",
+      "result": "found 4.627587380000023 but expected 1.1431793200000087",
       "weight": 1
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "test": 17,
-      "result": "PASS",
+      "result": "found 77.95994753999969 but expected 90.3463866099999",
       "weight": 1
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "test": 19,
-      "result": "PASS",
+      "result": "found 6.149171779999982 but expected 22.12017136165159",
       "weight": 1
     },
     {
