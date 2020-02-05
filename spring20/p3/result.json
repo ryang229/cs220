@@ -1,5 +1,5 @@
 {
-  "score": 85.0,
+  "score": 95.0,
   "tests": [
     {
       "test": 1,
@@ -78,12 +78,12 @@
     },
     {
       "test": 16,
-      "result": "found 90.3463866099999 but expected 98.55499483333321",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 17,
-      "result": "found 77.95994753999969 but expected 90.3463866099999",
+      "result": "PASS",
       "weight": 1
     },
     {
