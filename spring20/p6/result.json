@@ -1,5 +1,5 @@
 {
-  "score": 70.0,
+  "score": 80.0,
   "tests": [
     {
       "test": 1,
@@ -73,7 +73,7 @@
     },
     {
       "test": 15,
-      "result": "found unexpected entry in list: 'Finca Las Moras'",
+      "result": "PASS",
       "weight": 1
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "test": 17,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 18,
-      "result": "not found",
+      "result": "no outputs in an Out[N] cell",
       "weight": 1
     },
     {
