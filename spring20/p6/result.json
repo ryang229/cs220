@@ -1,5 +1,5 @@
 {
-  "score": 80.0,
+  "score": 95.0,
   "tests": [
     {
       "test": 1,
@@ -88,17 +88,17 @@
     },
     {
       "test": 18,
-      "result": "no outputs in an Out[N] cell",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 19,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 20,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     }
   ]
