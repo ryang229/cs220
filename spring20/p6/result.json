@@ -1,5 +1,5 @@
 {
-  "score": 30.0,
+  "score": 70.0,
   "tests": [
     {
       "test": 1,
@@ -38,47 +38,47 @@
     },
     {
       "test": 8,
-      "result": "found 124 in cell 8 but expected 123",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 9,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 10,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 11,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 12,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 13,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 14,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 15,
-      "result": "not found",
+      "result": "found unexpected entry in list: 'Finca Las Moras'",
       "weight": 1
     },
     {
       "test": 16,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
