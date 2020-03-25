@@ -1,5 +1,5 @@
 {
-  "score": 15.0,
+  "score": 17.5,
   "tests": [
     {
       "test": 1,
@@ -18,7 +18,7 @@
     },
     {
       "test": 4,
-      "result": "found unexpected entry in list: 'Mel Gibson'",
+      "result": "PASS",
       "weight": 1
     },
     {
