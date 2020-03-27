@@ -1,5 +1,5 @@
 {
-  "score": 62.5,
+  "score": 65.0,
   "tests": [
     {
       "test": 1,
@@ -88,7 +88,7 @@
     },
     {
       "test": 18,
-      "result": "found 6.551923076923077 in cell 18 but expected 6.401659528907912",
+      "result": "PASS",
       "weight": 1
     },
     {
