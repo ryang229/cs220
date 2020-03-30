@@ -1,5 +1,5 @@
 {
-  "score": 90.0,
+  "score": 100.0,
   "tests": [
     {
       "test": 1,
@@ -138,22 +138,22 @@
     },
     {
       "test": 28,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 29,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 30,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 31,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
