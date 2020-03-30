@@ -1,5 +1,5 @@
 {
-  "score": 65.0,
+  "score": 67.5,
   "tests": [
     {
       "test": 1,
@@ -133,7 +133,7 @@
     },
     {
       "test": 27,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
