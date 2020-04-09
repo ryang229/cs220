@@ -1,5 +1,5 @@
 {
-  "score": 55.0,
+  "score": 60.0,
   "tests": [
     {
       "test": 1,
@@ -58,7 +58,7 @@
     },
     {
       "test": 12,
-      "result": "missing 2 entries in list, such as: Review(id=25136, username='Angrydagg', asin='B018Y229OU', title='Nice features for the price.', text='For the price this tables does everything I need. so far.', rating=4, do_recommend=True, num_helpful=0, date='2015-12-30')",
+      "result": "PASS",
       "weight": 1
     },
     {
