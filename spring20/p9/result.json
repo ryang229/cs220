@@ -1,5 +1,5 @@
 {
-  "score": 45.0,
+  "score": 55.0,
   "tests": [
     {
       "test": 1,
@@ -48,17 +48,17 @@
     },
     {
       "test": 10,
-      "result": "no outputs in an Out[N] cell",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 11,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 12,
-      "result": "not found",
+      "result": "missing 2 entries in list, such as: Review(id=25136, username='Angrydagg', asin='B018Y229OU', title='Nice features for the price.', text='For the price this tables does everything I need. so far.', rating=4, do_recommend=True, num_helpful=0, date='2015-12-30')",
       "weight": 1
     },
     {
