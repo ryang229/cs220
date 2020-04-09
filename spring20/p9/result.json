@@ -1,54 +1,54 @@
 {
-  "score": 0.0,
+  "score": 45.0,
   "tests": [
     {
       "test": 1,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 2,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 3,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 4,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 5,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 6,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 7,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 8,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 9,
-      "result": "not found",
+      "result": "PASS",
       "weight": 1
     },
     {
       "test": 10,
-      "result": "not found",
+      "result": "no outputs in an Out[N] cell",
       "weight": 1
     },
     {
